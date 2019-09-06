@@ -13,9 +13,9 @@ function randomValueFromArray(array){
 
 //declaring variables and their arrays for the story for later function
 let storyText = 'It was 94 fahrenheit outside, so :insertX: went for a walk. When they got to :insertY:, they stared in horror for a few moments, then :insertZ:. Bob saw the whole thing, but was not surprised — :insertX: weighs 300 pounds, and it was a hot day.';
-let insertX = ['Willy the Goblin', 'Big Daddy', 'Father Christmas'];
-let insertY = ['the soup kitchen, Disneyland, the White House'];
-let insertZ = ['spontaneously combusted, melted into a puddle on the sidewalk, turned into a slug and crawled away'];
+let insertX = ['Willy the Goblin', 'Big Daddy', 'Father Christmas', 'Mr. Bunny', 'Captain Hook'];
+let insertY = ['the soup kitchen, Disneyland, the White House', 'prison'];
+let insertZ = ['spontaneously combusted, melted into a puddle on the sidewalk, turned into a slug and crawled away','grew small fairy wings'];
 
 
 //adding a click event listenr to the button setting to the result function
